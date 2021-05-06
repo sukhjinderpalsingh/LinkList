@@ -1,6 +1,6 @@
 # LinkList🔗 (Clone of LinkTree) list podcast's links in Instagram
 
-Foobar is a Python library for dealing with word pluralization.
+
 
 ## v4Desi Punjabi Podcast🎙
 
