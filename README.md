@@ -1,4 +1,4 @@
-# LinkList🔗 (Clone of LinkTree) list podcast's links in Instagram
+# LinkList🔗list podcast's links in Instagram
 
 
 
